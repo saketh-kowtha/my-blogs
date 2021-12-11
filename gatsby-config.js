@@ -5,8 +5,8 @@ module.exports = {
       name: `Saketh Kowtha`,
       summary: `I am Javascript developer focuses on frontend technologies such as HTML, CSS, React, Gatsby, Nextjs, Angular, Webpack, Parcel and Redux, I have a passion for Design systems with Web accessibility, Microfrontends and Serverless such as AWS and GCP. I had an experience with Agile and TDD (Test driven development).`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    // description: `A starter blog demonstrating what Gatsby can do.`,
+    // siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
       twitter: `sakethkowtha`,
     },
@@ -105,7 +105,7 @@ module.exports = {
               }
             `,
             output: "/rss.xml",
-            title: "Gatsby Starter Blog RSS Feed",
+            title: "Saketh Blogs RSS Feed",
           },
         ],
       },
@@ -113,15 +113,15 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Saketh Blogs`,
+        short_name: `SK Blogs`,
         start_url: `/`,
         background_color: `#ffffff`,
         // This will impact how browsers show your PWA/website
         // https://css-tricks.com/meta-theme-color-and-trickery/
         // theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/profile-pic.jpeg`, // This path is relative to the root of the site.
       },
     },
     `gatsby-plugin-react-helmet`,
