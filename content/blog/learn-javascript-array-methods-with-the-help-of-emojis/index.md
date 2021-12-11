@@ -1,7 +1,6 @@
 ---
 id: 790743
 title: Learn Javascript array methods with the help of emojis
-description: //Concat ['🏋🏻‍♂️', '🏃🏻'].concat('🧘🏻') = [ '🏋🏻‍♂️', '🏃🏻', '🧘🏻' ] //Join ['🤴🏻', '👸🏻'].join('💍') =...
 published_at: 2021-08-13T14:37:13.003Z
 tag_list: javascript,webdev,beginners
 ---

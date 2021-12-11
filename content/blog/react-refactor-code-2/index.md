@@ -2,7 +2,6 @@
 
 id: 771525
 title: React refactor code #2
-description: Actual code : const Counter = ({}) =&gt; { const [counter, setCounter] = useState(0) const...
 published_at: 2021-07-26T04:59:01.557Z
 tag_list: javascript,webdev,beginners,react
 

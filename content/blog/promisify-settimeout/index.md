@@ -1,7 +1,6 @@
 ---
 id: 857646
 title: Promisify setTimeout
-description: Code to promisify setTimeout const delay = (time) =&gt; new Promise((resolve, reject)...
 published_at: 2021-10-09T15:44:17.007Z
 tag_list: javascript,webdev,programming,node
 ---

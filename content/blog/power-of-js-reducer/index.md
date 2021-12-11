@@ -2,7 +2,6 @@
 
 id: 355487
 title: Power of Js reducer
-description: Reducer executes a function (provided as argument to reducer) on each element of the array, resulting...
 published_at: 2020-06-14T16:12:45.371Z
 tag_list: javascript,ecmascript,functional,reducer
 

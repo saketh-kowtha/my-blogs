@@ -2,7 +2,6 @@
 
 id: 727809
 title: About Gatsby
-description: Gatsby is react based open source framework to create static websites and static web-apps. It is...
 published_at: 2021-06-14T10:27:39.091Z
 tag_list: javascript,react,gatsby,beginners
 

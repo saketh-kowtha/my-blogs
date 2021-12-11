@@ -1,7 +1,6 @@
 ---
 id: 721764
 title: About DOM (Document object model) in HTML
-description: What is DOM ? DOM (Document object model) is the tree structured data representation of...
 published_at: 2021-06-08T17:18:47.741Z
 tag_list: html,javascript,css,webdev
 ---

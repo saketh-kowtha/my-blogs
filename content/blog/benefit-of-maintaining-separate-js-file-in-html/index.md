@@ -1,7 +1,6 @@
 ---
 id: 723035
 title: Benefit of maintaining separate Js file in HTML
-description: The benefit of a separate file is that the browser will download it and store it in its cache. So the...
 published_at: 2021-06-09T13:15:15.636Z
 tag_list: html,javascript,css,webdev
 ---

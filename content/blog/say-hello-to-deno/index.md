@@ -2,7 +2,6 @@
 
 id: 345016
 title: Say hello to Deno
-description: Deno is a Javascript runtime. Some devs will say that it is an alternative for NodeJS but it is not a...
 published_at: 2020-05-27T18:29:44.464Z
 tag_list: deno,javascript,ecmascript,typescript
 

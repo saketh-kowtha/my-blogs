@@ -1,7 +1,6 @@
 ---
 id: 798486
 title: Currying in javascript!!
-description: What is currying ? Currying is an advanced technique of working with functions. It is a...
 published_at: 2021-08-20T16:47:39.116Z
 tag_list: javascript,react,beginners,webdev
 ---

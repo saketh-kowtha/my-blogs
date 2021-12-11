@@ -1,7 +1,6 @@
 ---
 id: 881397
 title: How to use ES6+ features in nodejs
-description: This article is about how to use es6+ in nodejs project Initialising project with...
 published_at: 2021-10-29T17:06:49.650Z
 tag_list: javascript,webdev,node,beginners
 ---

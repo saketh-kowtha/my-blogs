@@ -2,7 +2,6 @@
 
 id: 728546
 title: Gatsby cli commands
-description: gatsby develop gatsby build gatsby serve gatsby info gatsby clean gatsby repl gatsby new [rootPath]...
 published_at: 2021-06-15T04:33:39.034Z
 tag_list: gatsby,javascript,react,netlify
 

@@ -1,7 +1,6 @@
 ---
 id: 808266
 title: In javascript 0 _ -1 = -0 !
-description: Do you know when we evaluate this 0 _ -1 in javascript we will get -0 because javascript can hold...
 published_at: 2021-08-30T18:03:21.552Z
 tag_list: javascript,beginners,webdev
 ---

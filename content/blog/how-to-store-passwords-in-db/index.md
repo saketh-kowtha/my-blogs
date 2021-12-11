@@ -1,7 +1,6 @@
 ---
 id: 918494
 title: How to store passwords in db?
-description: Hello All, Hope all are doing good in this pandemic time. This article is about hashing passwords...
 published_at: 2021-12-06T09:37:29.950Z
 tag_list: webdev,beginners,security,database
 ---

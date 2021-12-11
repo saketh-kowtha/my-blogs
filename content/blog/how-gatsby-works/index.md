@@ -1,7 +1,6 @@
 ---
 id: 727812
 title: How Gatsby works
-description: Gatsby is static site generator. it has three phases Collecting data...
 published_at: 2021-06-14T10:30:30.318Z
 tag_list: javascript,react,gatsby,beginners
 ---

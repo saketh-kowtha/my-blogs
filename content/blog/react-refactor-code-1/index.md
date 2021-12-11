@@ -2,7 +2,6 @@
 
 id: 770769
 title: React refactor code #1
-description: Actual code : Refactor stage 1 (Make larger components in to small by creating small reusable...
 published_at: 2021-07-25T04:09:44.986Z
 tag_list: beginners,react,refactorit,webdev
 

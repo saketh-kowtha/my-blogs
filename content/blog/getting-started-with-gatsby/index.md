@@ -2,7 +2,6 @@
 
 id: 728536
 title: Getting started with gatsby
-description: Requirements Nodejs (download it from here https://nodejs.org/en/download/) ...
 published_at: 2021-06-15T04:13:46.719Z
 tag_list: gatsby,javascript,react,beginners
 

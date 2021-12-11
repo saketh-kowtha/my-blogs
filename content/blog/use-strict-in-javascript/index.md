@@ -1,11 +1,8 @@
 ---
-
 id: 615963
-title: "use strict" in javascript
-description: Javascript is crazy language it will allow us to write bad code that we shouldn't do. use strict dir...
+title: use strict in javascript
 published_at: 2021-02-23T18:00:32.504Z
 tag_list: javascript,es5,ecmascript6,webdev
-
 ---
 
 <img src='https://res.cloudinary.com/practicaldev/image/fetch/s--pBjfs6-z--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ah5yo18lgm31134qyvq9.jpeg' />

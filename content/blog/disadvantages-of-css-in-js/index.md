@@ -2,7 +2,6 @@
 
 id: 745353
 title: Disadvantages of Css-in-Js ?
-description: I am a big fan of CSS-in-JS especially styled-components but in this article i want to discuss about...
 published_at: 2021-07-01T17:12:29.331Z
 tag_list: javascript,css,react,beginners
 

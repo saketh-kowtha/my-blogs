@@ -1,7 +1,6 @@
 ---
 id: 772296
 title: Advantages of useTimeout and useInterval hooks over setTimeout and setInterval ?
-description: Hello 👋 , Hope all are doing good in this pandemic time. In this article i am going to explain...
 published_at: 2021-07-26T18:10:59.376Z
 tag_list: react,nextjs,javascript,beginners
 ---

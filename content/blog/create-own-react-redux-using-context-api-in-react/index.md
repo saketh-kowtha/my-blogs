@@ -1,7 +1,6 @@
 ---
 id: 791464
 title: Create own react-redux using context api in react
-description: Hello 👋, In this article we are going to build own react-redux with the help of context api ...
 published_at: 2021-08-14T06:01:29.172Z
 tag_list: javascript,react,redux,beginners
 ---

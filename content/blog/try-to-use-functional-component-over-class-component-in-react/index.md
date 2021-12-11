@@ -1,7 +1,6 @@
 ---
 id: 760260
 title: Try to use functional component over class component in react
-description: Functional component are much easier to read. Class components are stateful while Functional are...
 published_at: 2021-07-15T16:06:08.959Z
 tag_list: react,javascript,beginners
 ---

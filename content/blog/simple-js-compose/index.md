@@ -1,7 +1,6 @@
 ---
 id: 379320
 title: Simple js compose
-description: The concept of compose is simple — it combines n functions. It’s a pipe flowing right-to-left, callin...
 published_at: 2020-07-02T19:27:43.847Z
 tag_list: javascript,functional,compose
 ---

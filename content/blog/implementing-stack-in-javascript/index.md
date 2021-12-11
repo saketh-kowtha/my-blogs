@@ -1,7 +1,6 @@
 ---
 id: 791345
 title: Implementing Stack in javascript
-description: Hello 👋, This is an article on implementing stack data structure in javascript We already know...
 published_at: 2021-08-14T03:44:10.824Z
 tag_list: javascript,beginners,webdev,algorithms
 ---

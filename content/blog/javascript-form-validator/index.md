@@ -1,7 +1,6 @@
 ---
 id: 392279
 title: Javascript form validator
-description: Here we are going to build a form validator class it will expose four methods forField, addRule, vali...
 published_at: 2020-07-11T06:29:51.871Z
 tag_list: javascript,form,validator,es6
 ---

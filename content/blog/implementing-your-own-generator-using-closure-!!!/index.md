@@ -2,7 +2,6 @@
 
 id: 355658
 title: Implementing your own Generator using closure !!!
-description: Here is a small program generating x to y numbers using generator in JS later we will implement equiv...
 published_at: 2020-06-14T17:51:38.401Z
 tag_list: javascript,iterator,node,closures
 

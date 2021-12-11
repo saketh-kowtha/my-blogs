@@ -2,7 +2,6 @@
 
 id: 533307
 title: Why i would recommend Thoughtworks for others?
-description: Hello 👋 I am Saketh Kowtha working as a dev in Thoughtworks. You can find more about me on...
 published_at: 2020-12-04T17:43:44.905Z
 tag_list: thoughtworks,tdd,pairprogramming
 

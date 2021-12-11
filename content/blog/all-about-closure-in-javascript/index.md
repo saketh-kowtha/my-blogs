@@ -1,7 +1,6 @@
 ---
 id: 918821
 title: All about closure in javascript
-description: Hello all 👋🏻, This article is all about closure in javascript. Closure is not a easy topic. It will...
 published_at: 2021-12-06T17:19:37.776Z
 tag_list: javascript,webdev,beginners,functional
 ---

@@ -1,7 +1,6 @@
 ---
 id: 770444
 title: Don't be too dependent on useState, useRef is there for you
-description: Hello 👋 Hope all are doing good in this pandemic time. Whenever i am seeing any reactjs code...
 published_at: 2021-07-24T15:19:27.034Z
 tag_list: beginners,react,nextjs,javascript
 ---

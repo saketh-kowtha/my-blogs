@@ -1,7 +1,6 @@
 ---
 id: 754689
 title: Building multiple themes with CSS..
-description: This article is about building a site with multiple color schemes. It will change the theme without...
 published_at: 2021-07-09T13:33:26.884Z
 tag_list: html,css,beginners,webdev
 ---
