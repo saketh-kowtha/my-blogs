@@ -54,7 +54,7 @@
   --fontSize-5: 2.074rem;
   --fontSize-6: 2.488rem;
   --fontSize-7: 2.986rem;
-  --color-primary: #005b99;
+  --color-primary: rgba(0, 150, 204, 0.9);
   --color-text: #2e353f;
   --color-text-light: #4f5969;
   --color-heading: #1a202c;
@@ -85,6 +85,7 @@ body {
 
 footer {
   padding: var(--spacing-6) var(--spacing-0);
+  text-align: center;
 }
 
 hr {
@@ -330,4 +331,8 @@ a:focus {
   ol {
     list-style-position: inside;
   }
+}
+
+[itemprop="articleBody"] img {
+  max-width: 100%;
 }
